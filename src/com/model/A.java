@@ -8,6 +8,7 @@ public class A {
 		
 		System.out.println("kk");
 		System.out.println("hh");
+		System.out.println("g");
 	}
 
 }
